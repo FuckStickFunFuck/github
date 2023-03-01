@@ -77,7 +77,7 @@
     "yubikiri": "2.0.0"
   },
   "devDependencies": {
-    "@atom/mocha-test-runner": "1.6.0",
+    "@atom/mocha-test-runner": "1.6.1",
     "babel-plugin-istanbul": "5.2.0",
     "chai": "4.2.0",
     "chai-as-promised": "7.1.1",
